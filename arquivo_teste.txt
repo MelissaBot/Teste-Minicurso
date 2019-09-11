@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 das
 
 '-'
+=======
+>>>>>>> parent of a20432c... treskoda
